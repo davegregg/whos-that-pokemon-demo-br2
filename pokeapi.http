@@ -1,0 +1,5 @@
+GET https://pokeapi.co/api/v2/pokemon/809
+
+###
+
+GET https://pokeapi.co/api/v2/generation/generation-vii
